@@ -69,13 +69,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thehardik26&theme=react-dark&hide_border=false&area=true" alt="activity-graph" width="100%"/>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thehardik26/thehardik26/main/profile/trophy.svg" alt="trophies" />
-</p>
-
-> ℹ️ Requires the `trophies.yml` GitHub Action (below) to run once so this file exists in your repo.
-
 ## 🐍 Contribution Snake (Animated)
 <p align="center">
   <img src="https://raw.githubusercontent.com/thehardik26/thehardik26/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
