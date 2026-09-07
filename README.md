@@ -4,7 +4,7 @@
 <!-- Animated Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React.js+%2B+Tailwind+CSS+%E2%9A%A1;Django+REST+Framework+%2B+FastAPI+%F0%9F%9A%80;MySQL+%2B+Redis+%2B+Docker+%F0%9F%90%B3;Always+learning%2C+always+building!+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React.js+%2B+Tailwind+CSS;Django+REST+Framework+%2B+FastAPI;MySQL+%2B+Redis+%2B+Docker;Always+learning%2C+always+building!" alt="Typing SVG" />
   </a>
 </p>
 
