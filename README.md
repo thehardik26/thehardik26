@@ -29,16 +29,34 @@
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=90&section=header&text=About%20Me&fontSize=38&fontColor=61DAFB&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-```yaml
-🔭 Currently building:   Full-stack apps with React.js, Tailwind CSS, Django REST Framework / FastAPI, MySQL
-👯 Looking to collaborate: Open-source full-stack projects, scalable REST APIs, microservices
-🤝 Looking for help with: Async performance optimization & database indexing in production MySQL
-🌱 Currently learning:    FastAPI microservice orchestration, Redis caching, modern Docker workflows
-💬 Ask me about:          React · Tailwind CSS · Django · DRF · FastAPI · relational database design
-⚡ Fun fact:               Django brings the batteries, FastAPI brings the speed — together, best of both worlds
-```
+<table align="center">
+  <tr>
+    <td width="45"><img src="https://em-content.zobj.net/source/microsoft-teams/337/telescope_1f52d.png" width="32"/></td>
+    <td><b>Currently building</b><br/>Full-stack apps with <b>React.js</b>, <b>Tailwind CSS</b>, <b>Django REST Framework</b> / <b>FastAPI</b> and <b>MySQL</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://em-content.zobj.net/source/microsoft-teams/337/handshake_1f91d.png" width="32"/></td>
+    <td><b>Looking to collaborate</b><br/>Open-source full-stack projects, scalable REST APIs, microservices architecture</td>
+  </tr>
+  <tr>
+    <td><img src="https://em-content.zobj.net/source/microsoft-teams/337/raised-hand_270b.png" width="32"/></td>
+    <td><b>Looking for help with</b><br/>Async performance optimization &amp; database indexing in production MySQL</td>
+  </tr>
+  <tr>
+    <td><img src="https://em-content.zobj.net/source/microsoft-teams/337/seedling_1f331.png" width="32"/></td>
+    <td><b>Currently learning</b><br/>FastAPI microservice orchestration, Redis caching, modern Docker workflows</td>
+  </tr>
+  <tr>
+    <td><img src="https://em-content.zobj.net/source/microsoft-teams/337/speech-balloon_1f4ac.png" width="32"/></td>
+    <td><b>Ask me about</b><br/>React · Tailwind CSS · Django · DRF · FastAPI · relational database design</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Fun_Fact-Django_brings_the_batteries%2C_FastAPI_brings_the_speed-61DAFB?style=for-the-badge&labelColor=1a1a2e"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
