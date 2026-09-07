@@ -91,7 +91,6 @@
   <img src="https://raw.githubusercontent.com/thehardik26/thehardik26/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> ℹ️ Needs the `snake.yml` GitHub Action to run once in this repo before it renders — see the workflow file shared earlier in this chat.
 
 ## ✍️ Random Dev Quote
 
