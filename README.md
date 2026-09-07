@@ -71,8 +71,10 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thehardik26&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/thehardik26/thehardik26/main/profile/trophy.svg" alt="trophies" />
 </p>
+
+> ℹ️ Requires the `trophies.yml` GitHub Action (below) to run once so this file exists in your repo.
 
 ## 🐍 Contribution Snake (Animated)
 <p align="center">
