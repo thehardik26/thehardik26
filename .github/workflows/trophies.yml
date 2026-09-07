@@ -12,15 +12,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate trophy image
-        uses: ryo-ma/github-profile-trophy@v1
-        with:
-          username: thehardik26
-          theme: tokyonight
-          no-frame: false
-          no-bg: false
-          margin-w: 4
-          output: profile/trophy.svg
+      - name: Download trophy image
+        run: |
+          mkdir -p profile
+          curl -sL "https://github-profile-trophy.vercel.app/?username=thehardik26&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" -o profile/trophy.svg
 
       - name: Commit and push if changed
         run: |
